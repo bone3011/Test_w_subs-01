@@ -4,3 +4,7 @@
 [submodule "test-02"]
 	path = test-02
 	url = https://github.com/bone3011/test-02.git
+[submodule "test-03"]
+	path = test-03
+	url = https://github.com/bone3011/test-03.git
+	branch = master
